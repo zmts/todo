@@ -1,0 +1,6 @@
+export enum AppEnvs {
+  APP_PORT= 'APP_PORT',
+  APP_NAME= 'APP_NAME',
+  APP_JWT_SECRET= 'APP_JWT_SECRET',
+  APP_JWT_EXP = 'APP_JWT_EXP',
+}
